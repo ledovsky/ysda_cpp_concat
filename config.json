@@ -1,0 +1,8 @@
+{
+    "files": [
+        "file_1.h",
+        "file_1.cpp",
+        "main.cpp"
+    ],
+    "out_fn": "main_out.cpp"
+}
